@@ -13,7 +13,7 @@ Contains details of the products ordered, the shipping limit date, the price , f
 3. 👤**Customers: PK-> customer_id**    
 Contains customer data like customer_id, state, city, zip code.  
 
-4.💳 **Payments:  PK-> order_id**   
+4. 💳 **Payments:  PK-> order_id**   
 Payment details like total payment value, type of payment, installments and the payment sequential number.  
    
 6. ⭐**Order_review:  PK-> review_id**   
