@@ -4,7 +4,7 @@
 
 ## DATASET OVERVIEW:  There are 8 Tables in this dataset.  
 
-1. orders: **PK-> order_id**  
+1. orders: **PK-> order_id**  Contains an overview of orders. Includes order purchase time, order status,estimated deliver date, delivery date
 2. order_items: **PK-> order_id**  
 3. Customers: **PK-> customer_id**  
 4. Payments: **PK-> order_id**  
