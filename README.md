@@ -7,51 +7,30 @@
 1. 🛒 **orders:  PK-> order_id**   
 Contains an overview of orders. Includes order purchase time, order status,estimated deliver date, delivery date.  
    
-2. 📦 **order_items: PK-> order_id**    
-Contains details of the products ordered, the shipping limit date, the price , freight value and the seller.  
+2. 📦 **order_items: PK-> order_id**
+Stores item level details for each order, such as product ID, shipping deadline, item price, freight value, and seller ID.  
 
 3. 👤**Customers: PK-> customer_id**    
 Contains customer data like customer_id, state, city, zip code.  
 
-4. 💳 **Payments:  PK-> order_id**   
-Payment details like total payment value, type of payment, installments and the payment sequential number.  
+4. 💳 **Payments:  PK-> order_id**
+Contains payment details, including total payment amount, payment type, number of installments, and payment sequence number.
    
-6. ⭐**Order_review:  PK-> review_id**   
-Review details like the review score, review title ,its creation time and review response time.    
+5. ⭐**Order_review:  PK-> review_id**   
+Stores customer review information such as review score, review title, review creation timestamp, and review response time.
 
-7. 🏪**Sellers: PK-> seller_id**    
+6. 🏪**Sellers: PK-> seller_id**    
 Seller details like Seller id, seller state, city and zip code.  
 
-8. 🗺️**Geolocation: PK-> geolocation_zip_code**  
-Contaains the geolocation data for the dataset which includes geolocation zip code, state,city, lat, long.   
+7. 🗺️**Geolocation: PK-> geolocation_zip_code**  
+Includes geographical information linked to ZIP codes, such as state, city, latitude, and longitude.
 
-9. 🏷️**Products: PK-> product_id**    
-Product details like product id, product category, product height,weight,length,width,photos etc.  
+8. 🏷️**Products: PK-> product_id**    
+Product level details like product id, product category, and physical attributes like product height,weight,length,width,photos etc.  
    
 
-orders: 🛒 PK → order_id
-Contains an overview of orders. Includes order purchase time, order status, estimated deliver date, delivery date.
 
-order_items: 📦 PK → order_id
-Contains details of the products ordered, the shipping limit date, the price, freight value and the seller.
 
-customers: 👤 PK → customer_id
-Contains customer data like customer_id, state, city, zip code.
-
-payments: 💳 PK → order_id
-Payment details like total payment value, type of payment, installments and the payment sequential number.
-
-order_review: ⭐ PK → review_id
-Review details like the review score, review title, its creation time and review response time.
-
-sellers: 🏪 PK → seller_id
-Seller details like seller id, seller state, city and zip code.
-
-geolocation: 🗺️ PK → geolocation_zip_code
-Contains the geolocation data for the dataset which includes geolocation zip code, state, city, latitude, longitude.
-
-products: 🏷️ PK → product_id
-Product details like product id, product category, product height, weight, length, width, photos etc.
 
 ## ER DIAGRAM :  
 
