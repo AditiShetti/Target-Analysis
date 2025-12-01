@@ -2,6 +2,11 @@
 
 ## PROJECT OVERVIEW:  
 
+## TOOLS USED:
+EXCEL files for the datset  
+BigQuery for SQL analysis  
+Looker Studio for visualisation.  
+
 ## DATASET OVERVIEW:  There are 8 Tables in this dataset.    
 
 1. 🛒 **orders:  PK-> order_id**   
