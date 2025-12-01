@@ -3,9 +3,9 @@
 ## PROJECT OVERVIEW:  
 
 ## TOOLS USED:
-EXCEL files for the datset  
-BigQuery for SQL analysis  
-Looker Studio for visualisation.  
+EXCEL : Datset  
+BigQuery: For SQL analysis  
+Looker Studio : For visualisation.  
 
 ## DATASET OVERVIEW:  There are 8 Tables in this dataset.    
 
