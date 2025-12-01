@@ -36,7 +36,8 @@ Product level details like product id, product category, and physical attributes
 
 
 ## ER DIAGRAM :  
-C:\Users\skkyd\Pictures\Screenshots\Target BQ ER trial.png
+<img width="1196" height="712" alt="Target BQ ER trial" src="https://github.com/user-attachments/assets/9999c2fb-a5d6-4148-b264-cdcf083e9c30" />
+
 
 
 ## INSIGHTS & RECOMMENDATION:  
