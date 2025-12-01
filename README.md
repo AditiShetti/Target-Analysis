@@ -32,8 +32,6 @@ Includes geographical information linked to ZIP codes, such as state, city, lati
 
 8. 🏷️**Products: PK-> product_id**    
 Product level details like product id, product category, and physical attributes like product height,weight,length,width,photos etc.  
-   
-
 
 
 
