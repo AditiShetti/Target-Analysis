@@ -1,6 +1,8 @@
 # Target-Analysis---BQ  
 
 ## PROJECT OVERVIEW:  
+Analysed and visualised an ecommerce dataset to gain insight on the orders, common order times, average price, freight value, etc.   
+
 
 ## TOOLS USED:
 **EXCEL** : Datset  
