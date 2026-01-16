@@ -41,6 +41,9 @@ Product level details like product id, product category, and physical attributes
 <img width="1080" height="631" alt="Target Analysis ER Diagram" src="https://github.com/user-attachments/assets/a819d73f-88e5-429d-925d-97d860eea721" />
 
 
+## DASHBOARD:
+<img width="1300" height="731" alt="Weather Dashboard" src="https://github.com/user-attachments/assets/f081b8eb-8e77-4be1-aeb2-89ac0e3f1c71" />
+
 
 ## INSIGHTS & RECOMMENDATION:  
 
