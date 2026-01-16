@@ -5,7 +5,7 @@ Analysed and visualised an ecommerce dataset to gain insight on the orders, comm
 
 
 ## TOOLS USED:
-**EXCEL** : Datset  
+**EXCEL** : Dataset  
 **BigQuery**: For SQL analysis  
 **Looker Studio** : For visualisation.  
 
