@@ -42,7 +42,7 @@ Product level details like product id, product category, and physical attributes
 
 
 ## DASHBOARD:
-<img width="1300" height="731" alt="Weather Dashboard" src="https://github.com/user-attachments/assets/f081b8eb-8e77-4be1-aeb2-89ac0e3f1c71" />
+<img width="1140" height="752" alt="Target Analysis Dashboard" src="https://github.com/user-attachments/assets/8e4ad9ef-0af7-408b-9225-058a0a8cd193" />
 
 
 ## INSIGHTS & RECOMMENDATION:  
